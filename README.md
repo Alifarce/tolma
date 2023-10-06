@@ -1,2 +1,2 @@
 # tolma
-tolma.org website
+wsg my chat
